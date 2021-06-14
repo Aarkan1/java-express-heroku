@@ -1,1 +1,1 @@
-web: web: java $JAVA_OPTS -jar express-heroku-1.0.jar --port $PORT *.jar
+web: java $JAVA_OPTS -jar express-heroku-1.0.jar --port $PORT
